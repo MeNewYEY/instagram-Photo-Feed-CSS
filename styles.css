@@ -1,0 +1,43 @@
+body{    
+    margin: 0;
+    padding: 0;
+    background-color: rgb(194, 194, 194);
+}
+
+.header{
+    text-align: center;
+    padding: 2px;
+    background-color: white;
+}
+
+
+header h1{
+    margin: 0;
+}
+
+.post{
+    width: 50%;
+    background-color: white;
+    margin: 20px auto;
+}
+
+.tittle{
+    padding: 6px;
+}
+
+.tittle h3{
+    display: inline;
+}
+
+.tittle span{
+    float: right;
+}
+
+.photo img{
+    width: 100%;
+}
+
+.description{
+    padding: 4px;
+}
+
